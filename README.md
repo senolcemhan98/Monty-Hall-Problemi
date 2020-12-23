@@ -16,7 +16,7 @@
   
   Bu çok zor bir kara değildir. Açık bir şekilde görülebileceği gibi, bir kapıyı vermek karşılığında iki kapıyı almanız gerekir. Çünkü kazanma şansınızı 1/3'ten 2/3'e yükseltir. bu tam olarak da Monty Hall'ın orjinal oyunda keçilerin olduğu kapılardan birini açtıktan sonra yapmanızı sağladığı şeyin aynısıdır. Buradaki temel düşünce; eğer iki kapı seçecek olsaydınız, bunlardan biri her zaman ardında bir keçi barındıracaktır. Kararınızı değiştirip değiştirmeyeceğinizi sormadan önce bir kapı açtığında; aslında size büyükbir iyilik yapmaktadır! Gerçekten de "Seçmediğiniz kapılardan birinde bir araba olma şansı 2/3'tür ve bakın, bu kapı o değil!" demektir.
   
-  Sonuçlar :
+  # Sonuçlar :
 ![graph](https://user-images.githubusercontent.com/58151691/102948575-4028b880-44d7-11eb-9f11-6677fe3b72a5.JPG)
 
 
